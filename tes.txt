@@ -6,3 +6,4 @@ ini baru
 
 #Ini branch baru
 Menjadi text baru adaaad
+akn ada data baru yang akan masuk kedalam text ddata tersebut
